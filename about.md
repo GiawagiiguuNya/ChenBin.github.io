@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+titles: Back to the moon... 
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-# Back to the moon... 
+
 
 This site will be used to tell a story... 
 
