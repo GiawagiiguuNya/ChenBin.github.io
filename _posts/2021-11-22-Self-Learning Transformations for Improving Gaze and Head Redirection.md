@@ -1,7 +1,9 @@
+---
+
 title: Self-Learning Transformations for Improving Gaze and Head Redirection
 tags: Gaze_Recognition paper
 
-------------
+---
 
 
 
