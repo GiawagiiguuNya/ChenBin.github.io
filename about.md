@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: Back to the moon 
+title: Back to the moon 
 key: page-about
 ---
 
