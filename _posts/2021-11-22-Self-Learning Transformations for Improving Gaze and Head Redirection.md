@@ -1,3 +1,10 @@
+title: Self-Learning Transformations for Improving Gaze and Head Redirection
+tags: Gaze_Recognition paper
+
+------------
+
+
+
 # Self-Learning Transformations for Improving Gaze and Head Redirection
 
 provide us a new way to build a feature extraction based on GAN.
