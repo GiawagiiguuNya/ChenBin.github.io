@@ -7,8 +7,6 @@ tags: Gaze_Recognition paper
 
 
 
-# Self-Learning Transformations for Improving Gaze and Head Redirection
-
 provide us a new way to build a feature extraction based on GAN.
 
 compared to the method used in the  *Few-shot adaptive gaze recognition*, this method can deal with unrelated factor based on using Innovative label vector.

@@ -3,7 +3,7 @@ title: Few-shot adaptive gaze estimation
 tags: Gaze_Recognition paper
 ---
 
-#  _Few-shot adaptive gaze estimation_
+
 
 > Park, Seonwook, et al. "Few-shot adaptive gaze estimation." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
 
