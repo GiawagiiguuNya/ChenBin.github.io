@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: Back to the moon... 
+titles:  
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
