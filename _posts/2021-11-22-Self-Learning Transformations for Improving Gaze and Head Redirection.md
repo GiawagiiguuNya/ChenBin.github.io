@@ -20,6 +20,7 @@ $$
 use pairs of image of the same person.
 
 **image representation:** personal non-varying embedding (appearance) + N factors of image variations 
+
 $$
 z_{i}^0  \\
 \mathbf{f_{i}} =\{f^1_{i},f^2_{i},f^3_{i}...f^N_{i}\} \\
@@ -28,6 +29,7 @@ f^j_{i} \gets c_i^{j},z_i^{j} \\
 for \space simple: \space 
 (z_{i}^0,c_i^{1},z_i^{1},c_i^{2},z_i^{2},...,c_i^{N},z_i^{N})\\
 $$
+
  overall image condition of $X_i $
 $$
 \mathbf{c_i} =\{c_i^{1},c_i^{2},c_i^{3},...,c_i^{N}\}
