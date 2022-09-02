@@ -45,6 +45,7 @@ and a important assumption: subset $c_i $ of factors are extraneous to the task 
 For a pair of images $X_i $ and $X_t $, ST-ED predicts their personal non-varying codes (z^0_i and z^0_t ), their pseudo-label conditions ($ \tilde{c}_i$ and $\tilde{c }_t$) and embedding representations (z_i and z_t)
 
 **The pipeline:**
+
 $$
 \{z_{i}^0,\{z_{i}^1,\tilde{c}_i^1\},\{z_{i}^2,\tilde{c}_i^2\},...,\{z_{i}^N,\tilde{c}_i^N\}\} \gets G_{enc}(X_i) \\
 \{z_{t}^0,\{z_{t}^1,\tilde{c}_i^1\},\{z_{t}^2,\tilde{c}_i^2\},...,\{z_{t}^N,\tilde{c}_i^N\}\} \gets G_{enc}(X_t)
